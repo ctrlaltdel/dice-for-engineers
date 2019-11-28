@@ -1,7 +1,5 @@
-# network-dice
+# Dice for Engineers
 
-A dice for helping network engineers in their daily troubleshooting
+A dice for helping engineers in their daily troubleshooting tasks.
 
-## Thanks
-
-Thanks to [Ultimate configurable dice by energywave](https://www.thingiverse.com/thing:1919139) licensed under Creative Commons - Attribution - Non-Commercial
+Thanks to [Ultimate configurable dice by energywave](https://www.thingiverse.com/thing:1919139) licensed under Creative Commons - Attribution - Non-Commercial.
