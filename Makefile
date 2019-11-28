@@ -1,6 +1,6 @@
-all: network.stl
+all: network.stl sysadmin.stl helpdesk.stl
 
-%.stl : %.txt
+%.stl : %.txt images.py Ultimate_configurable_dice.scad
 	./images.py $<
 	openscad -o $@ Ultimate_configurable_dice.scad
 	rm [1-6].png
