@@ -6,8 +6,14 @@ Dices for helping engineers in their daily troubleshooting tasks:
   * [System Engineer](sysadmin.stl)
   * [Helpdesk](helpdesk.stl)
 
-## Result
+## Results
 
-!![](images/network-v1.jpg)
+The following dices were printed on an Ultimaker 3 printer.
 
-Thanks to [Ultimate configurable dice by energywave](https://www.thingiverse.com/thing:1919139) licensed under Creative Commons - Attribution - Non-Commercial.
+![](images/network-v1.jpg)
+*Network Engineer Dice v1*
+
+# Thanks
+
+  * [Ultimate configurable dice by energywave](https://www.thingiverse.com/thing:1919139) licensed under Creative Commons - Attribution - Non-Commercial.
+  * [FABLAB Renens](http://www.fablab-renens.ch/)
