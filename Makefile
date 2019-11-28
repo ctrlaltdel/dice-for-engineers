@@ -1,5 +1,6 @@
-all: network
+all: network.stl
 
-network:
-	./images.py network.txt
-	openscad -o network.stl Ultimate_configurable_dice.scad
+%.stl : %.txt
+	./images.py $<
+	openscad -o $@ Ultimate_configurable_dice.scad
+	rm [1-6].png
