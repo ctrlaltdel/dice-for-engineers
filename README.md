@@ -17,8 +17,8 @@ The following dices were printed on an Ultimaker 3 printer.
 # Build
 
 ```
-apt install openscad fonts-open-sans
-pip3 install --user pillow
+sudo apt install openscad fonts-open-sans
+sudo pip3 install pillow
 make
 ```
 
