@@ -13,6 +13,13 @@ The following dices were printed on an Ultimaker 3 printer.
 ![](images/network-v1.jpg)
 *Network Engineer Dice v1*
 
+# Build
+
+```
+apt install openscad fonts-open-sans
+pip3 install --user pillow
+```
+
 # Thanks
 
   * [Ultimate configurable dice by energywave](https://www.thingiverse.com/thing:1919139) licensed under Creative Commons - Attribution - Non-Commercial.

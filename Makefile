@@ -1,4 +1,4 @@
-all: network.stl sysadmin.stl helpdesk.stl
+all: network.stl sysadmin.stl helpdesk.stl hpc.stl
 
 %.stl : %.txt images.py Ultimate_configurable_dice.scad
 	./images.py $<
