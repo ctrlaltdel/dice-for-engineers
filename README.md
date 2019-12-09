@@ -5,6 +5,7 @@ Dices for helping engineers in their daily troubleshooting tasks:
   * [Network Engineer](network.stl)
   * [System Engineer](sysadmin.stl)
   * [Helpdesk](helpdesk.stl)
+  * [High Performance Computing](hpc.stl)
 
 ## Results
 
