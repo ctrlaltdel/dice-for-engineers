@@ -26,3 +26,4 @@ make
 
   * [Ultimate configurable dice by energywave](https://www.thingiverse.com/thing:1919139) licensed under Creative Commons - Attribution - Non-Commercial.
   * [FABLAB Renens](http://www.fablab-renens.ch/)
+
