@@ -6,6 +6,7 @@ Dices for helping engineers in their daily troubleshooting tasks:
   * [System Engineer](sysadmin.stl)
   * [Helpdesk](helpdesk.stl)
   * [High Performance Computing](hpc.stl)
+  * [Kubernetes](kubernetes.stl)
 
 ## Results
 
@@ -13,6 +14,9 @@ The following dices were printed on an Ultimaker 3 printer.
 
 ![](images/network-v1.jpg)
 *Network Engineer Dice v1*
+
+![](images/kubernetes-v3.jpg)
+*Kubernetes Dice v3*
 
 # Build
 
