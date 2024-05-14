@@ -28,9 +28,9 @@ make
 
 # Print Settings
 
-  * PETG
+  * PLA
   * 0.2 mm
-  * Fill 40%
+  * Fill 50%
 
 # Thanks
 
