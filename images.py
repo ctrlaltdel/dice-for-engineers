@@ -13,4 +13,4 @@ with open(sys.argv[1]) as f:
     name = '{}.png'.format(i)
     text = f.readline().strip()
 
-    run(("convert", "-gravity", "center", "-background", "white", "-fill", "black", "-size", "100x100", "-font", FONT, "caption:" + text, name))
+    run(("convert", "-gravity", "center", "-background", "black", "-fill", "white", "-size", "100x100", "-font", FONT, "caption:" + text, name))
