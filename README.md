@@ -30,7 +30,7 @@ make
 
   * PLA
   * 0.2 mm
-  * Fill 50%
+  * Fill 60%
 
 # Thanks
 

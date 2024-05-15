@@ -5,7 +5,7 @@ from subprocess import run
 
 SIZE = (100, 100)
 MAX_FONT_SIZE = 100
-MARGIN = 10
+MARGIN = 5
 FONT = './OpenSans-Bold.ttf'
 
 with open(sys.argv[1]) as f:
@@ -13,4 +13,4 @@ with open(sys.argv[1]) as f:
     name = '{}.png'.format(i)
     text = f.readline().strip()
 
-    run(("convert", "-gravity", "center", "-background", "black", "-fill", "white", "-size", "100x100", "-font", FONT, "caption:" + text, name))
+    run(("convert", "-border", str(MARGIN), "-bordercolor", "black", "-gravity", "center", "-background", "black", "-fill", "white", "-size", "100x100", "-font", FONT, "caption:" + text, name))
