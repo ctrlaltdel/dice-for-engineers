@@ -1,4 +1,7 @@
-all: network.stl sysadmin.stl helpdesk.stl hpc.stl kubernetes.stl kubernetes-user.stl llm.stl
+run:
+	orb run make all
+
+all: network.stl sysadmin.stl helpdesk.stl hpc.stl kubernetes.stl kubernetes-user.stl llm.stl openstack.stl
 
 %.stl : %.txt images.py Ultimate_configurable_dice.scad
 	./images.py $<

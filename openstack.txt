@@ -1,0 +1,6 @@
+OVS
+RMQ
+CEPH
+QEMU
+CVE
+HW
