@@ -54,7 +54,7 @@ SurfaceSide = (Roundness>10 ? DiceSide*Mult : DiceSide) * SizeCorrection;
 difference(){
     intersection(){
         cube(DiceSide, true);
-        sphere(SphereRadius, true, $fn=100);
+        sphere(SphereRadius, $fn=100);
     }
     SideSub(1);
     SideSub(2);
